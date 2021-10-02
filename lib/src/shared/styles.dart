@@ -52,6 +52,11 @@ const TextStyle subtitle20Medium = TextStyle(
   fontWeight: FontWeight.w500,
 );
 
+const TextStyle subtitle18Medium = TextStyle(
+  fontSize: 18,
+  fontWeight: FontWeight.w500,
+);
+
 const TextStyle subtitle18Regular = TextStyle(
   fontSize: 18,
   fontWeight: FontWeight.w400,
