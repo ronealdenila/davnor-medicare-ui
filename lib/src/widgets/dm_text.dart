@@ -28,7 +28,7 @@ class DmText extends StatelessWidget {
   DmText.subtitle20Medium(this.text, {this.color})
       : style = subtitle20Medium.copyWith(color: color);
   DmText.subtitle18Medium(this.text, {this.color})
-      : style = subtitle18Regular.copyWith(color: color);
+      : style = subtitle18Medium.copyWith(color: color);
   DmText.subtitle18Regular(this.text, {this.color})
       : style = subtitle18Regular.copyWith(color: color);
   DmText.body16Regular(this.text, {this.color})
