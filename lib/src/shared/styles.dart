@@ -64,6 +64,10 @@ const TextStyle subtitle18Regular = TextStyle(
 
 // Body
 
+const TextStyle body24Bold = TextStyle(
+  fontSize: 24,
+  fontWeight: FontWeight.w700,
+);
 const TextStyle body16Regular = TextStyle(
   fontSize: 16,
   fontWeight: FontWeight.w400,
